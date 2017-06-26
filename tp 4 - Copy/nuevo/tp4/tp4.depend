@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1465700436 source:c:\users\juan martin\desktop\tp4\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465698225 c:\users\juan martin\desktop\tp4\arraylist.h
+
+1465755289 source:c:\users\juan martin\desktop\tp4\funciones.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465755262 source:c:\users\juan martin\desktop\tp4\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465755262 c:\users\juan martin\desktop\tp4\funciones.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1465700438 source:c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp4\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1465698226 c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp4\arraylist.h
+
+1465755264 c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp4\funciones.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1465755264 source:c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp4\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+

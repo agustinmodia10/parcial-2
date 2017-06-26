@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1465825982 source:c:\users\alumno.lab4pc\desktop\tps 4\tp (hc)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756764 c:\users\alumno.lab4pc\desktop\tps 4\tp (hc)\arraylist.h
+
+1465825648 c:\users\alumno.lab4pc\desktop\tps 4\tp (hc)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1465825883 source:c:\users\alumno.lab4pc\desktop\tps 4\tp (hc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465826440 source:c:\users\alumno.lab4pc\desktop\tps 4\tp (hc)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465951574 source:c:\users\juan martin\desktop\tps 4\tp (hc)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756764 c:\users\juan martin\desktop\tps 4\tp (hc)\arraylist.h
+
+1465825650 c:\users\juan martin\desktop\tps 4\tp (hc)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1465952521 source:c:\users\juan martin\desktop\tps 4\tp (hc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465940536 source:c:\users\juan martin\desktop\tps 4\tp (hc)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465951574 source:c:\users\juan martin\desktop\tps 4\trabajo practico (terminado)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756764 c:\users\juan martin\desktop\tps 4\trabajo practico (terminado)\arraylist.h
+
+1465825650 c:\users\juan martin\desktop\tps 4\trabajo practico (terminado)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1465952521 source:c:\users\juan martin\desktop\tps 4\trabajo practico (terminado)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465940536 source:c:\users\juan martin\desktop\tps 4\trabajo practico (terminado)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465951574 source:c:\users\juan martin\desktop\facultad\laboratorio i y programación i\tps 4\trabajo practico (terminado)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756764 c:\users\juan martin\desktop\facultad\laboratorio i y programación i\tps 4\trabajo practico (terminado)\arraylist.h
+
+1465825650 c:\users\juan martin\desktop\facultad\laboratorio i y programación i\tps 4\trabajo practico (terminado)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1472240029 source:c:\users\juan martin\desktop\facultad\laboratorio i y programación i\tps 4\trabajo practico (terminado)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465940536 source:c:\users\juan martin\desktop\facultad\laboratorio i y programación i\tps 4\trabajo practico (terminado)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	"persona.h"
+	"ArrayList.h"
+

@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1465784292 source:c:\users\juan martin\desktop\tp (hc)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756762 c:\users\juan martin\desktop\tp (hc)\arraylist.h
+
+1465759184 c:\users\juan martin\desktop\tp (hc)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1465780828 source:c:\users\juan martin\desktop\tp (hc)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1465786203 source:c:\users\juan martin\desktop\tp (hc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465759184 c:\users\juan martin\desktop\tp (hc)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1465786194 source:c:\users\juan martin\desktop\tp (hc)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"persona.h"
+	"ArrayList.h"
+
+1465784294 source:c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp (hc)\arraylist.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1465756764 c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp (hc)\arraylist.h
+
+1497053138 c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp (hc)\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+
+1497654192 source:c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp (hc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"persona.h"
+	"ArrayList.h"
+
+1497652757 source:c:\users\elmolelaptop\desktop\tp 4 - copy\nuevo\tp (hc)\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"persona.h"
+	"ArrayList.h"
+

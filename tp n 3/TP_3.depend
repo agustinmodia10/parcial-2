@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1496442942 source:c:\users\alumno\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1496442942 c:\users\alumno\desktop\tp3\funciones.h
+
+1496443694 source:e:\tp3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496442944 e:\tp3\funciones.h
+
+1496443582 source:e:\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1496446499 source:c:\users\elmolelaptop\desktop\tp n 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496446638 c:\users\elmolelaptop\desktop\tp n 3\funciones.h
+
+1496445894 source:c:\users\elmolelaptop\desktop\tp n 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1496446499 source:c:\users\elmolelaptop\desktop\github utn\tp_laboratorio_1\tp n 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496446638 c:\users\elmolelaptop\desktop\github utn\tp_laboratorio_1\tp n 3\funciones.h
+
+1496445894 source:c:\users\elmolelaptop\desktop\github utn\tp_laboratorio_1\tp n 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
